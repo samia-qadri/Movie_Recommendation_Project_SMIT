@@ -25,3 +25,9 @@ This project reflects not just technical implementation, but also teamwork, prob
 https://www.kaggle.com/datasets/parasharmanas/movie-recommendation-system
 
  Thank you for checking out our final project! Feel free to explore the code and share feedback.
+
+Samia Qadri
+Student of Software Engineering (BSSE)
+UBIT, University of Karachi
+Linkedin: 
+https://www.linkedin.com/in/samia-qadri-aa3a87360/
